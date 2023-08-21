@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IqAQ33K6g6D5vJk/eJXIVIbc+OyrUUc/qOH/4tkvG1b5pGTPG+hBFjEArWx92tyUNbE+lwqF+8SkYWTs1oo6pg==",
+  "success": true,
+  "projectFilePath": "/Users/jamarrileydevelop/Desktop/ProgrammingProjects/FSharp/MachineSimulatorProject/MachineSimulatorProject.fsproj",
+  "expectedPackageFiles": [
+    "/Users/jamarrileydevelop/.nuget/packages/fsharp.core/7.0.200/fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
